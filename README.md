@@ -21,6 +21,7 @@ npm config set https-proxy null
 2、执行：
 
 
+
 rm -rf node_modules
 rm -rf package-lock.json
 npm cache clear --force
